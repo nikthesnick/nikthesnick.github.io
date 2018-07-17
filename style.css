@@ -1,11 +1,24 @@
+﻿
 body{
-	background-color: papayawhip;
+	background-color: teal;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	background-color:#000000
+}
+
+li{
+	display:inline;
+	
 }
 
 #name{
 	
-	background-image: url("circuit.png");
-	background-position: bottom middle;
+	<!--background-image: url("circuit.png");-->
+	<!--background-position: bottom middle;-->
 	
 	font-size: 100px;
 	text-shadow: 3px 3px black, -3px -3px black,3px -3px black,-3px 3px black;
@@ -24,3 +37,4 @@ h1 {
 	background-color:darkslategray;
 	text-align:center;
 }
+
